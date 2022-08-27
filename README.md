@@ -1,4 +1,3 @@
 # works
 ## Subscribe 
-Предствлен пример кода для осуществеление сбора e-mail адресов через форму на сайте. 
-Адреса сохраняются в отдельную таблицу.
+The implementation of the subscribe form for collecting email data in a custom wp table.
